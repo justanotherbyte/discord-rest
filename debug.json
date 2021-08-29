@@ -1,0 +1,33 @@
+{
+    "application_id": "881521496365883423",
+    "channel_id": "881508250795782207",
+    "data": {
+        "id": "881528714926633020",
+        "name": "test",
+        "type": 1
+    },
+    "guild_id": "881508250795782204",
+    "id": "881560205702332457",
+    "member": {
+        "avatar": null,
+        "deaf": false,
+        "is_pending": false,
+        "joined_at": "2021-08-29T11:59:04.636000+00:00",
+        "mute": false,
+        "nick": null,
+        "pending": false,
+        "permissions": "549755813887",
+        "premium_since": null,
+        "roles": [],
+        "user": {
+            "avatar": "718cac31de5678c58c0caf8f5d8fbc64",
+            "discriminator": "6969",
+            "id": "691406006277898302",
+            "public_flags": 256,
+            "username": "moanie"
+        }
+    },
+    "token": "aW50ZXJhY3Rpb246ODgxNTYwMjA1NzAyMzMyNDU3OjlmbVRqTXFFT0VkV0JhR0l3RGJ6ZVRFa3dxVkRzN2k5dEoxQUQ4V2Q1alpyWGF0UTBqeFo1Tm1FS2J3dEc3WFQxUGR2SjBWeGdjQjZPeEtzTjJMUXZXbkRXY05RTWJ0ZmFtODk4TDdDUkFzeXVBSFNLM2tZbklkNmtSR0xIdFRj",
+    "type": 2,
+    "version": 1
+}

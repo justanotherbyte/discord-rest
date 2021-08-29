@@ -120,4 +120,10 @@ class HTTPClient:
         }
 
         return self.request(route, json = payload)
+
+
+    async def read_url(self, url: str) -> bytes:
+        async with self.__session.get(url) as resp:
+            return await resp.read()
+
         
