@@ -113,8 +113,6 @@ class HTTPClient:
             endpoint = "/applications/{application_id}/commands"
             route = Route("POST", endpoint, application_id = self.application_id)
 
-        print(route.url)
-
         payload: Dict[str, Any] = {
             "name": name,
             "description": description,
