@@ -12,9 +12,6 @@ from typing import (
 import aiohttp
 
 
-
-
-
 class Route:
     BASE = "https://discord.com/api/v9"
     def __init__(self, method: str, endpoint: str, **params):
@@ -76,7 +73,3 @@ class HTTPClient:
             return data
 
         raise OSError("hey something messed up http wise, this is a temp error will be replaced with http exception later :)")
-
-            
-
-
